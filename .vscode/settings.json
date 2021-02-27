@@ -1,0 +1,37 @@
+{
+    "Lua.diagnostics.disable": [
+        "undefined-global",
+        "lowercase-global",
+        512,
+        "undefined-doc-param",
+        11,
+        "undefined-doc-name",
+        "duplicate-index"
+    ],
+    "Lua.diagnostics.globals": [
+        "init",
+        "getScreenSize",
+        "nLog"
+    ],
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 16,
+    "LuaCoderAssist.search.filters": [
+    
+    ],
+    "LuaCoderAssist.luaparse.luaversion": 5.2,
+    "editor.tabCompletion": "on",
+    "Lua.diagnostics.severity": {
+        "ambiguity-1": "Error",
+        "circle-doc-class": "Warning"
+    },
+    "Lua.hint.enable": true,
+    "Lua.hint.setType": true,
+    "Lua.runtime.version": "Lua 5.2",
+    "Lua.workspace.preloadFileSize": 1000,
+    "Lua.completion.displayContext": 10,
+    "Lua.completion.callSnippet": "Replace",
+    "Lua.develop.debuggerWait": true,
+    "Lua.hover.previewFields": 1000,
+    "Lua.runtime.unicodeName": true,
+    "lua.debug.settings.luaVersion": "5.2"
+}

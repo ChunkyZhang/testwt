@@ -46,7 +46,6 @@ for row = 1, 3 do
                 nLog("识别到" .. "\r\n" .. row .. "," .. col .. "物品名称:" .. i)
                 count = count + 1
                 break
-             nLog("xxxxxx" .. "\r\n" .. row .. "," .. col .. "物品名称:" .. i)
             end
         end
     end

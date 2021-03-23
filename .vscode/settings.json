@@ -11,7 +11,8 @@
     "Lua.diagnostics.globals": [
         "init",
         "getScreenSize",
-        "nLog"
+        "nLog",
+        "mSleep"
     ],
     "files.autoSave": "onFocusChange",
     "editor.fontSize": 16,
@@ -33,5 +34,6 @@
     "Lua.develop.debuggerWait": true,
     "Lua.hover.previewFields": 1000,
     "Lua.runtime.unicodeName": true,
-    "lua.debug.settings.luaVersion": "5.2"
+    "lua.debug.settings.luaVersion": "5.2",
+    "window.zoomLevel": 1.2
 }
